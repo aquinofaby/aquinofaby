@@ -26,7 +26,8 @@
  <br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquinofaby&layout=compact)](https://github.com/aquinofaby/github-readme-stats&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquinofaby&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
