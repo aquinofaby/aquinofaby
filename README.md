@@ -1,5 +1,5 @@
-✨Ola meu nome é Faby ✨
-
+<h2 align="center"> ✨Ola meu nome é Faby ✨</h2>
+</h1>
 - :computer: Sou estudante de Data Science e Programação, mas fiquei 12 anos no RH
 - :house: Atualmente moro em Portugal mas sou Brasileira ... Saudades Calor :sun_with_face:<br/>
 
