@@ -36,7 +36,7 @@ In this moment it's a page in Notion but in the future, it could be a website, w
 <br/>
 
 
-<h3 align="left"> I 'm study in the moment <img src = "https://media.giphy.com/media/HLRFBBWONDgvD7qhlH/giphy.gif" width = 20px> </h3> 
+<h3 align="left"> I 'm studying in the moment <img src = "https://media.giphy.com/media/HLRFBBWONDgvD7qhlH/giphy.gif" width = 20px> </h3> 
 <p>
 <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=blue" /> 
 <img src="https://img.shields.io/badge/Amazon_Redshift-24248f?style=for-the-badge&logo=amazon&logoColor=white" /> 
