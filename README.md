@@ -1,30 +1,62 @@
-<h2 align="center"> ✨ Hi I'm Faby ✨</h2>
-<h4 align="center">  :computer: Student of Data Science & Programming :desktop_computer: <br/>
- :brazil: Brazilian but living in Porto - Portugal :portugal: <br/>
-:family_man_woman_girl: I love astrology, singing, dancing, cooking, traveling and staying with my friends and family :beers: </h4> <br/>
+<h2 align="center"> ✨ Hi there,  I'm Faby ✨ </h2>
+<p align="center">   <a href="https://www.linkedin.com/in/fabianeaquino/">Linkedin</a> •  <a href="https://twitter.com/dinheuros">Twitter</a> </p>
 
-### :monocle_face: Now I'm focused on	
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" /> 
 
-### :woman_technologist: But in my projects I already use
-<img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/> 
+<h4 align="left"> About me </h4>
+I'm a <strong>Data Analyst</strong> focused on People Analytics at this moment, but learning about <em><strong>Data Engineer</strong></em> and <em><strong>Data Science</strong></em>.  
+I'm brazilian living in a beautiful town called Santa Maria da Feira in Portugal. I'm personally enthusiastic about helping people to understand their potential, and that's why now working on a volunteer project sharing about my journey in technologies and English studies. 
+In this moment it's a page in Notion but in the future, it could be a website, who knows? </p>
+
+
+<h4 align="left"> I've some knowledge in <img src = "https://media.giphy.com/media/dAoHbGjH7k5ZTeQeBI/giphy.gif" width = 20px> </h4> 
+<p>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstraClickSignp&logoColor=white"/>  
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/> 
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> </br>
+
+
+<h4 align="left"> I generally use <img src = "https://media.giphy.com/media/gRYTjQAs04Pfydymgc/giphy.gif" width = 30px> </h4> 
+<p>
+<img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Google%20 Data Studio-3377ff?style=for-the-badge&logo=google%20analytics&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> 
+<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff" />
+<img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white"/> 
 <br/>
 
-### :next_track_button: I have already studied a little bit of:
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstraClickSignp&logoColor=white"/>  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
-### :next_track_button: The next steps of studies are
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> 
-
-#### :mailbox_closed: Find me in
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/fabianeaquino/) 
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/dinheuros) 
-
+<h4 align="left"> I 'm study in the moment <img src = "https://media.giphy.com/media/HLRFBBWONDgvD7qhlH/giphy.gif" width = 20px> </h4> 
+<p>
+<img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=blue" /> 
+<img src="https://img.shields.io/badge/Amazon_Redshift-24248f?style=for-the-badge&logo=amazon&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> 
 <br/>
+
+
+<h4 align="left"> The next studies will be about <img src = "https://media.giphy.com/media/XyaaFtMv5Bh7G3GlkJ/giphy.gif" width = 20px> </h3>
+<p>
+<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/> 
+ <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/> 
+<img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Qlik Sense-009933f?style=for-the-badge&logo=amazon&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/> 
+ <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
+<br/>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquinofaby&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
