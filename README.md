@@ -58,5 +58,7 @@ In this moment it's a page in Notion but in the future, it could be a website, w
  <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
 <br/>
 
+<p>
+<hr> 
+ <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquinofaby&layout=compact&theme=radical" /> </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquinofaby&layout=compact&theme=bear)](https://github.com/anuraghazra/github-readme-stats)
