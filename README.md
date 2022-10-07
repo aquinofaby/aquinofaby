@@ -1,11 +1,13 @@
 <h1 align="center"> ✨ Hi there,  I'm Faby ✨ </h1>
-<p align="center">   <a href="https://www.linkedin.com/in/fabianeaquino/">Linkedin</a> •  <a href="https://twitter.com/dinheuros">Twitter</a> </p>
+<p align="center">   <a href="https://www.linkedin.com/in/fabianeaquino/">Linkedin</a> •  <a href="https://twitter.com/dinheuros">Twitter</a> 
+</br>
 
 
 <h3 align="left"> About me </h3>
 I'm a <strong>Data Analyst</strong> focused on People Analytics at this moment, but learning about <em><strong>Data Engineer</strong></em> and <em><strong>Data Science</strong></em>.  
 I'm brazilian living in a beautiful town called Santa Maria da Feira in Portugal. I'm personally enthusiastic about helping people to understand their potential, and that's why now working on a volunteer project sharing about my journey in technologies and English studies. 
 In this moment it's a page in Notion but in the future, it could be a website, who knows? </p>
+
 
 
 <h3 align="left"> I've some knowledge in <img src = "https://media.giphy.com/media/dAoHbGjH7k5ZTeQeBI/giphy.gif" width = 20px> </h3> 
@@ -24,6 +26,7 @@ In this moment it's a page in Notion but in the future, it could be a website, w
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> </br>
 
 
+
 <h3 align="left"> I generally use <img src = "https://media.giphy.com/media/gRYTjQAs04Pfydymgc/giphy.gif" width = 30px> </h3> 
 <p>
 <img src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white"/> 
@@ -36,6 +39,7 @@ In this moment it's a page in Notion but in the future, it could be a website, w
 <br/>
 
 
+
 <h3 align="left"> I 'm studying in the moment <img src = "https://media.giphy.com/media/HLRFBBWONDgvD7qhlH/giphy.gif" width = 20px> </h3> 
 <p>
 <img src="https://img.shields.io/badge/Python-F7DF1E?style=for-the-badge&logo=python&logoColor=blue" /> 
@@ -44,6 +48,7 @@ In this moment it's a page in Notion but in the future, it could be a website, w
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" /> 
 <img src="https://img.shields.io/badge/Amazon AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" /> 
 <br/>
+
 
 
 <h3 align="left"> The next studies will be about <img src = "https://media.giphy.com/media/XyaaFtMv5Bh7G3GlkJ/giphy.gif" width = 20px> </h3>
@@ -58,7 +63,15 @@ In this moment it's a page in Notion but in the future, it could be a website, w
  <img src="https://img.shields.io/badge/scikit learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/> 
 <br/>
 
-<p>
-<hr> 
- <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquinofaby&layout=compact&theme=radical" /> </a>
+<P>
 
+
+____
+<!--- 
+<p align="center">  <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquinofaby&theme=synthwave" /> </a> -->
+
+ 
+ <p align="center"> 
+ <a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=aquinofaby&label=Profile%20Views&color=11&icon=1&pretty=true" width = 200px>
+</a> 
+</br>
