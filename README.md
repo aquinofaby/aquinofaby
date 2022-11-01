@@ -69,9 +69,9 @@ In this moment it's a page in Notion but in the future, it could be a website, w
 ____
 <!--- 
 <p align="center">  <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aquinofaby&theme=synthwave" /> </a> -->
-
  
- <p align="center"> 
- <a href="https://visitcount.itsvg.in"> <img src="https://visitcount.itsvg.in/api?id=aquinofaby&label=Profile%20Views&color=11&icon=1&pretty=true" width = 200px>
-</a> 
-</br>
+ <p align="center">  <a
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquinofaby&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark) [![aquinofaby's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aquinofaby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</a>
+
