@@ -72,6 +72,6 @@ ____
  
  <p align="center">  <a
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquinofaby&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark) [![aquinofaby's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aquinofaby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aquinofaby&layout=compact)](https://github.com/anuraghazra/github-readme-stats&theme=dark)
 </a>
 
